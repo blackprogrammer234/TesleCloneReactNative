@@ -10,12 +10,12 @@ Created UI clone of the tesla homepage to help my understanding of react native
 
 https://www.tesla.com/
 
-<p align="right">
+<div align="justify">
+<p>
   <img src="assets\images\teslahomepage.png"/>
-</p>
-<p align="left">
   <img src="assets\images\telsaclonegif.gif"/>
 </p>
+</div>
 
 
 ## Prerequisites
