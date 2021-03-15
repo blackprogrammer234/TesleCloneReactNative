@@ -1,6 +1,7 @@
 # TesleCloneReactNative
 
 <p align="center">
+  <img src="assets\images\teslahomepage.png" width="50%"/>
   <img src="assets\images\teslabanner.png" width="50%"/>
 </p>
 
