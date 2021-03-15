@@ -12,7 +12,7 @@ https://www.tesla.com/
 
 <div align="justify">
 <p>
-  <img src="assets\images\teslahomepage.png" width="50%"/>
+  <img src="assets\images\teslahomepage.png" width="70%"/>
   <img src="assets\images\telsaclonegif.gif"/>
 </p>
 </div>
