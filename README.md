@@ -38,3 +38,7 @@ start the application
  npm start or yarn start
 ```
 go to the metro bundler and click on "Run on android device"/"Run on IOS simulator" to run the application on the emulator
+
+Note:
+
+run android/ios emulator before running the project
